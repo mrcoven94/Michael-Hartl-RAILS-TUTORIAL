@@ -11,7 +11,7 @@ We’ve come now to the end of the high-level overview of a Rails application. T
 - First taste of the REST architecture
 - Beginning data modeling
 - A live, database-backed web application in production
-- 
+
 #### Weaknesses
 
 - No custom layout or styling
