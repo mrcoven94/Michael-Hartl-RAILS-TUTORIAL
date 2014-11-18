@@ -66,8 +66,7 @@ Generating a model can be undone by:
 
 ```
 
-
-
+<hr>
 Undoing migrations. Migrations change the state of the database using the command
 ```ruby
   $ bundle exec rake db:migrate
