@@ -6,7 +6,7 @@ $ git commit -m "Initialize repository"
 $ git remote add origin git@bitbucket.org:<username>/sample_app.git
 $ git push -u origin --all # pushes up the repo and its refs for the first time
 ```
-#### initialize  & Push to Heroku repo
+#### Push to Heroku repo
 ```git
 $ git commit -am "Add hello"
 $ heroku create
