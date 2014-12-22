@@ -1,3 +1,8 @@
+#### Running c9.io server
+```ruby
+rails s -p $PORT -b $IP
+```
+
 #### Configure Git
 ```git
 $ git config --global user.name "Your Name"
